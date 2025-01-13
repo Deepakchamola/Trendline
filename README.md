@@ -21,6 +21,7 @@
 - Media Queries: Used to make the design responsive across various screen sizes (mobile, tablet, desktop).
 
 ## Screenshot
+- ![Imge Alt](https://github.com/Deepakchamola/Trendline/blob/7ea782db07a2c4724a62be48b438e42f02622c33/Trendline.png)
 
 ## License
 - This project is licensed under the MIT License - see the LICENSE file for details.
