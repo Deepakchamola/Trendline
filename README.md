@@ -20,8 +20,12 @@
 - CSS3: Styling and layout, including Flexbox and CSS Grid.
 - Media Queries: Used to make the design responsive across various screen sizes (mobile, tablet, desktop).
 
-## Screenshot
-![Imge Alt](https://github.com/Deepakchamola/Trendline/blob/7ea782db07a2c4724a62be48b438e42f02622c33/Trendline.png)
+## Screenshots
+### Fullscreen
+<img src="https://github.com/Deepakchamola/Trendline/blob/7ea782db07a2c4724a62be48b438e42f02622c33/Trendline.png" width="850" height="500"/>
+
+### Responsive
+<img src="https://github.com/Deepakchamola/Trendline/blob/fef337f7d4a4e2649b5f9a5f085334a4d23b2591/Trendline-2.png" width="350" height="550"/>
 
 ## License
 - This project is licensed under the MIT License - see the LICENSE file for details.
