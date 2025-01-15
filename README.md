@@ -24,7 +24,7 @@
 <img src="https://github.com/Deepakchamola/Trendline/blob/7ea782db07a2c4724a62be48b438e42f02622c33/Trendline.png" width="850" height="500"/>
 
 ## Live Demo
-
+Explore the live demo of the Cotton Weave Website: [View Live](https://deepakchamola.github.io/Trendline/)
 
 ## License
 - This project is licensed under the MIT License - see the LICENSE file for details.
